@@ -2,7 +2,7 @@ My tmux configuration
 =====================
 - version: 2.1
 
-- load configuration:
+- Set up configuration:
 ```
-    $source load.sh
+    $source setup.sh
 ```
